@@ -16,4 +16,4 @@ Os conteúdos abordados nas listas são:
 A pasta "arquivos_das_aulas" contém os arquivos utilizados durantes as aulas do terceiro módulo.
 A pasta "dataset_projeto_final" contém os arquivos relacionados ao dataset utilizado no Projeto Final.
 
-O arquivo 'Projeto_Final_Módulo_03' é a conclusão deste módulo, o qual contém os conhecimentos adquiridos durante as aulas, aplicados em um dataset retirado do Kaggle, escolhido pelos integrantes dos grupos.
+O arquivo 'Projeto_Final' é a conclusão deste módulo, o qual contém os conhecimentos adquiridos durante as aulas, aplicados em um dataset retirado do Kaggle, escolhido pelos integrantes dos grupos.
