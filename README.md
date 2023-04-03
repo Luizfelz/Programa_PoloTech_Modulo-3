@@ -15,4 +15,4 @@ Os conteúdos abordados nas listas são:
 
 A pasta "arquivos_das_aulas" contém os arquivos utilizados durantes as aulas do terceiro módulo.
 
-A conclusão do módulo 5 se deu através da defesa de um projeto, realizado em grupo. O repositório contendo os arquivos do projeto pode ser acessado [aqui](https://github.com/Luizfelz/Projeto_Final_Mod.03_PoloTech).
+A conclusão do módulo 3 se deu através da defesa de um projeto, realizado em grupo. O repositório contendo os arquivos do projeto pode ser acessado [aqui](https://github.com/Luizfelz/Projeto_Final_Mod.03_PoloTech).
