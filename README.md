@@ -1,6 +1,6 @@
 # Projeto
 
-Neste repositório estão contidos todas as listas de exercícios, os arquivos das aulas e o arquivo do Projeto Final do módulo 3 do Programa PoloTech, da Ada. O módulo 3 do programa foi relacionado a "Técnicas de Programação" e as listas de exercícios foram divididas de acordo com o conteúdo aplicado em cada aula.
+Neste repositório estão contidos todas as listas de exercícios e os arquivos das aulas do módulo 3 do Programa PoloTech, da Ada. O módulo 3 do programa foi relacionado a "Técnicas de Programação" e as listas de exercícios foram divididas de acordo com o conteúdo aplicado em cada aula.
 
 Os conteúdos abordados nas aulas são:
 
@@ -14,6 +14,3 @@ Os conteúdos abordados nas listas são:
 - Lista_Numpy: exercícios relacionados ao conteúdo abordado na aula de Numpy.
 
 A pasta "arquivos_das_aulas" contém os arquivos utilizados durantes as aulas do terceiro módulo.
-A pasta "dataset_projeto_final" contém os arquivos relacionados ao dataset utilizado no Projeto Final.
-
-O arquivo 'Projeto_Final' é a conclusão deste módulo, o qual contém os conhecimentos adquiridos durante as aulas, aplicados em um dataset retirado do Kaggle, escolhido pelos integrantes dos grupos.
